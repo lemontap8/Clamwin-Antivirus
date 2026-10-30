@@ -209,4 +209,4 @@ ClamWin Antivirus is a fully free software solution, providing users with the co
 **Don’t wait! Protect your PC today with ClamWin Antivirus. Download it now and enjoy complete security for free!**
 
 ---
-**Last updated:** 2026-10-30 19:53:45 UTC
+**Last updated:** 2026-10-30 23:36:35 UTC
